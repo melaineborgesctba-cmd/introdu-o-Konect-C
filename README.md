@@ -1,6 +1,6 @@
 # Konect-C
 1. Identificação
-2. 
+
 Identidade Visual do Projeto
  Nome do Projeto: KONECT-C
 
