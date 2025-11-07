@@ -95,44 +95,76 @@ A Matriz de Riscos identifica ameaças e oportunidades que podem afetar o sucess
  3. Design do software 
  
 a. Design Centrado no Usuário (DCU) (https://www.designkit.org/methods.html)
+
 A metodologia DCU foi aplicada para garantir que a interface do Marketplace Comunitário atendesse às necessidades reais de moradores (usuários finais) e comerciantes (usuários do negócio).
+
 •	Métodos Aplicados: 
 o	Entrevistas Semi-Estruturadas (para entender as Personas), Brainstorming (para definir categorias do Marketplace), Storyboard (para contextualizar o uso).
+
 •	Resultados da Fase de Entendimento: As entrevistas indicaram que a rapidez na entrega e a informação de contato direta são as prioridades máximas para os moradores.
+
 •	Link para a Documentação Detalhada do DCU:
+
 b. Personas e Mapa de Empatia
 Os perfis de usuário abaixo guiaram as decisões de UX/UI, assegurando que o design atendesse a objetivos, dores e necessidades específicas.
+
 •	Persona 1: O Morador Digital (Usuário Final)
 o	Foco: Encontrar um serviço ou comércio local rapidamente.
+
 o	Link para o Mapa de Empatia da Persona 1: 
+
 •	Persona 2: O Comerciante Local (Usuário de Negócio)
 o	Foco: Garantir que seu negócio seja encontrado e que as informações de contato estejam claras.
+
 o	Link para o Mapa de Empatia da Persona 2:
+
 c. Storyboard (Contexto de Uso)
+
 O Storyboard visualiza a jornada do usuário e o valor que o KONECT-C entrega em um cenário real.
 •	Cenário de Uso: necessidades diárias demoradores da região: ex.: "Dona Maria precisa de um encanador urgente e decide usar o Marketplace KONECT-C em seu celular, em vez de recorrer a uma busca genérica na internet."
+
 •	Link para o Storyboard Visual: Storyline.pdf
 
 d. UI Design (Guia de Estilo)
+
 O Guia de Estilo assegura a consistência visual da interface, incorporando o tema steampunk/ferramenta.
+
 •	Paleta de Cores: (Confirmada na Seção 1.a)
+
 •	Tipografia: Fonte Serif para títulos (reforçando o vintage) e Sans-Serif para o corpo (garantindo legibilidade).]
+
 •	Componentes: Botões com bordas sutis de cobre, ícones de filtro estilizados como pequenas engrenagens, cartões de estabelecimento com separadores metálicos.
-•	Link para o Guia de Estilo Completo (Figma/Adobe XD/Outro): [
+
+•	Link para o Guia de Estilo Completo (Figma/Adobe XD/Outro): 
+
 e. Prototipação do MVP (Quant-UX)
+
 O protótipo navegável foi criado para validar o design e a usabilidade antes da codificação final.
+
 • Criar as Interfaces e Links entre as Telas
+
 •	Interfaces Protótipadas:  Tela Inicial (Home), Tela de Resultados da Busca, Tela de Detalhes do Comércio.
+
 •	Link para o Protótipo Navegável no Quant-UX: 
+
 • Roteiro de Teste (Baseado nos Critérios de Aceite)
+
 O roteiro de teste foi desenhado para avaliar os Critérios Quantificáveis de sucesso do projeto. 
+
 •	Objetivo do Teste: Validar se os usuários conseguem localizar e acessar informações de contato de um estabelecimento de forma rápida e intuitiva, conforme o critério de 80% de sucesso.
+
 •	Passos do Roteiro:
+
 1.	Cenário: "Imagine que você precisa encontrar uma Padaria na sua região para saber o horário de funcionamento."
+
 2.	Tarefa 1: "Na tela inicial, localize a seção ou o filtro que contém a categoria 'Gastronomia/Alimentos'."
+
 3.	Tarefa 2: "Usando o filtro, encontre a 'Padaria do Zé'."
+
 4.	Tarefa 3: "Clique no cartão da 'Padaria do Zé' e encontre o telefone de contato."
+
 5.	Ponto de Sucesso: O usuário clica ou visualiza o número de telefone.
+
 •	Link para o Roteiro no Quant-UX:
 
 4. Desenvolvimento
