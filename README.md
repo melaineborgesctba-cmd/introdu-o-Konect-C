@@ -111,7 +111,7 @@ o	Link para o Mapa de Empatia da Persona 2:
 c. Storyboard (Contexto de Uso)
 O Storyboard visualiza a jornada do usuário e o valor que o KONECT-C entrega em um cenário real.
 •	Cenário de Uso: necessidades diárias demoradores da região: ex.: "Dona Maria precisa de um encanador urgente e decide usar o Marketplace KONECT-C em seu celular, em vez de recorrer a uma busca genérica na internet."
-•	Link para o Storyboard Visual: 
+•	Link para o Storyboard Visual: Storyline.pdf
 
 d. UI Design (Guia de Estilo)
 O Guia de Estilo assegura a consistência visual da interface, incorporando o tema steampunk/ferramenta.
